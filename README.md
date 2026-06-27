@@ -6,6 +6,8 @@
 
 **Before I Fade** is a murder mystery themed, 2D visual novel game where you play as a ghost, waking up one month after your death. Explore your home to uncover memories and piece together the truth behind your murder _before you fade_.
 
+Trailer link: https://www.youtube.com/watch?v=vBebPiSdj_s
+
 ```⠀⠀⠀⠀
       ⠀⢀⣴⣿⣿⣿⣦⠀
 ⠀⠀⠀⠀⣰⣿⡟⢻⣿⡟⢻⣧
@@ -131,25 +133,25 @@ Art:
 
 Music & Sound (from Pixabay):
 
-- Phone Ringing — Dragon Studio
+- Phone Ringing - Dragon Studio
 
-- Police Siren — Dragon Studio
+- Police Siren - Dragon Studio
 
-- Story of Maple — Final Gate Studios
+- Story of Maple - Final Gate Studios
 
-- Correct Buzzer — u_a5z4rtk6yn
+- Correct Buzzer - u_a5z4rtk6yn
 
-- Incorrect Buzzer — logicallism
+- Incorrect Buzzer - logicallism
 
-- Piano notes — u_c58whxla22
+- Piano notes - u_c58whxla22
   
-- Horror — SoundGalleryByDmitryTaras
+- Horror - SoundGalleryByDmitryTaras
 
-- Horror Playhouse — geoffharvey Spooked — geoffharvey
+- Horror Playhouse - geoffharvey Spooked - geoffharvey
 
-- Kerosene — LBDLPROD
+- Kerosene - LBDLPROD
 
-- Puzzle Game — Cyberwave-Orchestra
+- Puzzle Game - Cyberwave-Orchestra
   
 
 Video Overlay:
