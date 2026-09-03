@@ -155,11 +155,11 @@ Music & Sound (from Pixabay):
   
 
 Video Overlay:
-- Damage Film Effects — Atomic Dreams
+- Damage Film Effects - Atomic Dreams
 
 Fonts:
 
-- Pixel Operator — Webfontfree
+- Pixel Operator - Webfontfree
   
 Engine:
 - Made with love in Godot💖
